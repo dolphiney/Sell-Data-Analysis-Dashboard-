@@ -4,4 +4,4 @@ Blinkit store wants to create an annual sales report for 2022. so that , the own
 I developed a comprehensive project in Excel , creating multiple dashboard and tables to analyze the data . this process involved several stages , including data preprocessing , data cleaning and data visualization .
 
 ## Dataset used 
--<a href="
+-<a href="https://github.com/dolphiney/Sell-Data-Analysis-Dashboard-/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx">blinkit store data </a>
